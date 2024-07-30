@@ -5,7 +5,11 @@
   - [alpha74](https://www.github.com/alpha74)
   - [Profile](https://alpha74.github.io/webcv/)
 
-<img src="https://github.com/user-attachments/assets/3c92e2b0-86e5-4880-ab74-7859c2bd2eab" height="200px">
+<img src="https://github.com/user-attachments/assets/3c92e2b0-86e5-4880-ab74-7859c2bd2eab" height="300px">
+
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/e1f9c1ff-4828-4172-94d6-21907ab0388b">
+
+
 
 
 #### Article Links
