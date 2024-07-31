@@ -14,6 +14,14 @@
 
 #### Article Links
 
+- IETF HTTP
+
+  - https://datatracker.ietf.org/doc/html/rfc7807
+
+- Design patterns
+
+  - https://refactoring.guru/design-patterns/bridge
+
 - Deploying Django app using Gunicorn and Nginx:
 
   - https://www.youtube.com/watch?v=7O1H9kr1CsA&ab_channel=CloudWithDjango
